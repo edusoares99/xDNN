@@ -1,5 +1,5 @@
 # xDNN
-eXplainable Deep Learning apporach
+eXplainable Deep Learning approach
 
 """
 Please cite:
